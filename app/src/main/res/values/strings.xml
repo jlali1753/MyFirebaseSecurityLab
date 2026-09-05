@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Firebase Security Lab</string>
+    <string name="firebase_url_hint">Firebase Database URL</string>
+    <string name="api_key_hint">API Key</string>
+    <string name="test_button">Test Connection</string>
+    <string name="write_button">Write</string>
+    <string name="read_button">Read</string>
+</resources>

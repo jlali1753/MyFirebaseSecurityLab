@@ -1,0 +1,19 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.ap_
+
+# Local configuration file
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Firebase
+google-services.json
